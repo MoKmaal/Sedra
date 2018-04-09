@@ -416,7 +416,7 @@ public class AccountPanel extends javax.swing.JPanel {
                 .addContainerGap(266, Short.MAX_VALUE))
             .addGroup(customerAccountPaneLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                 .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, customerAccountPaneLayout.createSequentialGroup()
-                    .addContainerGap(267, Short.MAX_VALUE)
+                    .addContainerGap(275, Short.MAX_VALUE)
                     .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 264, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addGap(50, 50, 50)))
         );
